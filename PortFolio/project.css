@@ -1,0 +1,23 @@
+*{
+    background-color:white;
+    font-size: 20px;
+    font-family: Verdana;
+    color:color: palevioletred ;
+    
+    
+}
+img{
+    height: 400px;
+    width: 500px;
+    float: left;
+    margin-top: 10px; 
+    padding-left: 10px;
+  padding-right:20px ;
+}
+body>h1{
+
+    color: brown;
+}
+p{
+    color:#132043;
+}
